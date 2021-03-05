@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct e_commerceApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }
