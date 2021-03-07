@@ -30,6 +30,10 @@ struct ContentView: View {
             
             CategoryGridView()
             
+            TitleView(title: "Helmet")
+            
+            //
+            
             FooterView()
               .padding(.horizontal)
           }
