@@ -29,6 +29,7 @@
 		8D7BAC0425F4E6F400956314 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BAC0325F4E6F400956314 /* SectionView.swift */; };
 		8D7BAC0725F4EA8E00956314 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BAC0625F4EA8E00956314 /* TitleView.swift */; };
 		8D7BAC0B25F4EC5B00956314 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BAC0A25F4EC5B00956314 /* ProductModel.swift */; };
+		8D7BAC0E25F4F13F00956314 /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BAC0D25F4F13F00956314 /* ProductItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		8D7BAC0325F4E6F400956314 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 		8D7BAC0625F4EA8E00956314 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 		8D7BAC0A25F4EC5B00956314 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		8D7BAC0D25F4F13F00956314 /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				8D7BAC0025F4E34000956314 /* CategoryGridView.swift */,
 				8D7BAC0325F4E6F400956314 /* SectionView.swift */,
 				8D7BAC0625F4EA8E00956314 /* TitleView.swift */,
+				8D7BAC0D25F4F13F00956314 /* ProductItemView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				8D7BABEB25F3E87600956314 /* LogoView.swift in Sources */,
 				8D45A63425F2A68800B15213 /* FooterView.swift in Sources */,
 				8D7BABF525F4D69700956314 /* FeaturedItemView.swift in Sources */,
+				8D7BAC0E25F4F13F00956314 /* ProductItemView.swift in Sources */,
 				8D45A60C25F29C6500B15213 /* e_commerceApp.swift in Sources */,
 				8D45A63125F2A43600B15213 /* Constant.swift in Sources */,
 				8D7BAC0125F4E34000956314 /* CategoryGridView.swift in Sources */,
