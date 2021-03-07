@@ -23,6 +23,7 @@
 		8D7BABF225F4D18500956314 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BABF125F4D18500956314 /* CodableBundleExtension.swift */; };
 		8D7BABF525F4D69700956314 /* FeaturedItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BABF425F4D69700956314 /* FeaturedItemView.swift */; };
 		8D7BABF825F4D80400956314 /* FeaturedTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BABF725F4D80400956314 /* FeaturedTabView.swift */; };
+		8D7BABFB25F4DE3A00956314 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7BABFA25F4DE3A00956314 /* CategoryModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		8D7BABF125F4D18500956314 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
 		8D7BABF425F4D69700956314 /* FeaturedItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedItemView.swift; sourceTree = "<group>"; };
 		8D7BABF725F4D80400956314 /* FeaturedTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedTabView.swift; sourceTree = "<group>"; };
+		8D7BABFA25F4DE3A00956314 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				8D7BABED25F4D14100956314 /* PlayerModel.swift */,
+				8D7BABFA25F4DE3A00956314 /* CategoryModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				8D7BABF525F4D69700956314 /* FeaturedItemView.swift in Sources */,
 				8D45A60C25F29C6500B15213 /* e_commerceApp.swift in Sources */,
 				8D45A63125F2A43600B15213 /* Constant.swift in Sources */,
+				8D7BABFB25F4DE3A00956314 /* CategoryModel.swift in Sources */,
 				8D7BABE825F3E70500956314 /* NavigationBarView.swift in Sources */,
 				8D7BABF825F4D80400956314 /* FeaturedTabView.swift in Sources */,
 				8D7BABEE25F4D14100956314 /* PlayerModel.swift in Sources */,
